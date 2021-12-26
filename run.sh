@@ -1,3 +1,4 @@
+###更改2222
 # 1. 使用cufflinks进行有参考基因组的基因表达量分析
 mkdir -p /home/train/09.RNA-seq_analysis_by_cufflinks
 cd /home/train/09.RNA-seq_analysis_by_cufflinks
